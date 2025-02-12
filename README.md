@@ -39,5 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanjan1841&show_icons=true&locale=en&layout=compact" alt="hassanjan1841" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanjan1841&show_icons=true&locale=en" alt="hassanjan1841" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=hassanjan1841" alt="hassanjan1841" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassanjan1841)](https://git.io/streak-stats)
