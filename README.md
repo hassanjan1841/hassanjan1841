@@ -1,63 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hassan Jan</h1>
-<h3 align="center">MERN Stack Developer | Full‑Stack Engineer | Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-<p align="center">
-  Passionate about building scalable web applications with React, Node.js, Express, MongoDB, and modern JavaScript/TypeScript ecosystems.
-</p>
+- 🔭 I’m currently working on [Online Schooling System](https://gulshan-management-system.vercel.app/)
 
----
+- 🌱 I’m currently learning **MERN Stack with advanced Technologies**
 
-## About Me
+- 👨‍💻 All of my projects are available at [https://hassanjan-portfolio.vercel.app/work](https://hassanjan-portfolio.vercel.app/work)
 
-I’m a full‑stack developer specializing in the **MERN stack**, with hands‑on experience in **React, Node.js, Express, MongoDB, Laravel, Next.js, PHP, and JavaScript/TypeScript**.  
-I focus on writing clean, maintainable code and delivering performant, user‑friendly web applications for real‑world use cases.
+- 📝 I regularly write articles on [https://hassanjan-portfolio.vercel.app/blogs](https://hassanjan-portfolio.vercel.app/blogs)
 
-## Current Work
+- 💬 Ask me about **React, MongoDB, Node.js, Express.js, Laravel, Next.js, PHP, JavaScript,**
 
-- 🚀 Working on an **Online Schooling System**  
-  → Live demo: [https://gulshan-management-system.vercel.app/](https://gulshan-management-system.vercel.app/)
+- 📫 How to reach me **hijani29714@gmail.com**
 
-## What I’m Learning
+- 📄 Know about my experiences [https://hassanjan-portfolio.vercel.app/resume](https://hassanjan-portfolio.vercel.app/resume)
 
-- 🌱 Deepening my expertise in the **MERN stack with advanced tools and patterns**  
-- 🌱 Exploring modern full‑stack workflows, performance optimization, and scalable backend architecture
-
-## Projects & Portfolio
-
-- 💻 All my projects are hosted on my portfolio:  
-  → [https://hassanjan-portfolio.vercel.app/work](https://hassanjan-portfolio.vercel.app/work)
-
-## Articles & Writing
-
-- ✍️ I regularly write technical articles and tutorials:  
-  → [https://hassanjan-portfolio.vercel.app/blogs](https://hassanjan-portfolio.vercel.app/blogs)
-
-## Ask Me About
-
-- React, Next.js, JavaScript, TypeScript  
-- Node.js, Express.js, MongoDB, Laravel, PHP  
-- RESTful APIs, authentication, and database design
-
-## How to Reach Me
-
-- 📨 Email: [hijani29714@gmail.com](mailto:hijani29714@gmail.com)
-
-## Experience & Resume
-
-- 📄 View my work experience and background:  
-  → [https://hassanjan-portfolio.vercel.app/resume](https://hassanjan-portfolio.vercel.app/resume)
-
----
-
-## Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hassan-jan-41b711191" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/hassan-jan-41b711191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-jan-41b711191" height="30" width="40" /></a>
 </p>
-
----
 
 ## Languages & Tools
 
@@ -78,18 +39,8 @@ I focus on writing clean, maintainable code and delivering performant, user‑fr
   </tr>
 </table>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanjan1841&show_icons=true&locale=en&layout=compact" alt="hassanjan1841" /></p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanjan1841&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanjan1841&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hassanjan1841" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanjan1841&show_icons=true&locale=en" alt="hassanjan1841" /></p>
+<p><img src="http://github-readme-streak-stats.herokuapp.com?user=hassanjan1841" alt="hassanjan1841" /></p>
+i want you to edit this readme and make it more professional look , do research for what professional readme is like and then create complete readme so i can copy pas
