@@ -58,6 +58,7 @@ I focus on writing clean, maintainable code and delivering performant, user‑fr
 </p>
 
 ---
+
 ## Languages & Tools
 
 <p align="left">
@@ -91,9 +92,6 @@ I focus on writing clean, maintainable code and delivering performant, user‑fr
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -124,9 +122,6 @@ I focus on writing clean, maintainable code and delivering performant, user‑fr
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
@@ -143,6 +138,7 @@ I focus on writing clean, maintainable code and delivering performant, user‑fr
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ## GitHub Stats
